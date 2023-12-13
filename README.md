@@ -1,5 +1,5 @@
 # Email-Name-Gen
-Input your wildcard email domain to generate infinite email names.
-Great for creating infinite account logins with one email.
+Ingrese su dominio de correo electrónico comodín para generar nombres de correo electrónico infinitos.
+Ideal para crear inicios de sesión de cuenta infinitos con un solo correo electrónico.
 
-Combines a prefix, a name, three random numbers, and your wildcard domain.
+Combina un prefijo, un nombre, tres números aleatorios y su dominio comodín.
